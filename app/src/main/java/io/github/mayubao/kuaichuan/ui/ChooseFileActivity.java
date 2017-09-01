@@ -100,7 +100,7 @@ public class ChooseFileActivity extends BaseActivity {
         setContentView(R.layout.activity_choose_file);
 
         ButterKnife.bind(this);
- 
+  
         init();
     }
 
