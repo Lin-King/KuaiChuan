@@ -118,7 +118,7 @@ public class HomeActivity extends BaseActivity
             init();
         }
     }
-
+   
     @Override
     protected void onResume() {
         updateBottomData();
